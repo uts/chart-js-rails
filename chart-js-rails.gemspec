@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = ChartJs::Rails::VERSION
 
-  gem.add_dependency "railties", "5.1.3"
+  gem.add_dependency "railties"
 end
